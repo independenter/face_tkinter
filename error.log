@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "face_recognition_frame.py", line 12, in <module>
+    import face_recognition
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 950, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 655, in _load_unlocked
+  File "d:\python3.6.2\lib\site-packages\PyInstaller\loader\pyimod03_importers.py", line 627, in exec_module
+    exec(bytecode, module.__dict__)
+  File "site-packages\face_recognition\__init__.py", line 7, in <module>
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 950, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 655, in _load_unlocked
+  File "d:\python3.6.2\lib\site-packages\PyInstaller\loader\pyimod03_importers.py", line 627, in exec_module
+    exec(bytecode, module.__dict__)
+  File "site-packages\face_recognition\api.py", line 17, in <module>
+RuntimeError: Unable to open C:\Users\ADMINI~1\AppData\Local\Temp\_MEI16922\face_recognition_models\models\shape_predictor_68_face_landmarks.dat
